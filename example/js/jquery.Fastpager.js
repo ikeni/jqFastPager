@@ -4,7 +4,7 @@
     $.extend({
         fastpager : new function (options) {
             var fp = this;
-            fp.version = "1.0";
+            fp.version = "0.1.0";
             fp.defaults = {
                 pageSize: 10,
                 currentPage: 1,
